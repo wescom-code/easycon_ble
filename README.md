@@ -1,5 +1,7 @@
 # EasyCon BLE for Home Assistant
 
+[English](README_en.md) | 繁體中文
+
 [![version](https://img.shields.io/github/manifest-json/v/wescom-code/easycon_ble?filename=custom_components%2Feasycon_ble%2Fmanifest.json)](https://github.com/wescom-code/easycon_ble/releases/latest)
 [![releases](https://img.shields.io/github/downloads/wescom-code/easycon_ble/total)](https://github.com/wescom-code/easycon_ble/releases)
 [![stars](https://img.shields.io/github/stars/wescom-code/easycon_ble)](https://github.com/wescom-code/easycon_ble/stargazers)
