@@ -1,0 +1,16 @@
+{
+  "domain": "easycon_ble",
+  "name": "EasyCon BLE",
+  "codeowners": [],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/wescom-code/easycon_ble",
+  "integration_type": "device",
+  "iot_class": "local_push",
+  "requirements": [
+    "bleak>=0.19.0",
+    "bleak-retry-connector>=3.0.0",
+    "pycryptodome>=3.17.0"
+  ],
+  "version": "1.0.0"
+}

@@ -1,0 +1,2030 @@
+{
+  "QD0003": {
+    "name": "取暖桌",
+    "type": "unknown"
+  },
+  "RLS001": {
+    "name": "顾家智能按摩椅",
+    "type": "unknown"
+  },
+  "RLS002": {
+    "name": "智能按摩椅",
+    "type": "unknown"
+  },
+  "RLS003": {
+    "name": "志高智能按摩椅",
+    "type": "unknown"
+  },
+  "IS0127": {
+    "name": "M1_4P_UART_语音识别",
+    "type": "light"
+  },
+  "CS0032": {
+    "name": "魔联智能夜灯",
+    "type": "light"
+  },
+  "TWJJ04": {
+    "name": "魔联智能夜灯",
+    "type": "light"
+  },
+  "TWJJ06": {
+    "name": "魔联智能夜灯",
+    "type": "light"
+  },
+  "TWJJ11": {
+    "name": "TW时钟灯",
+    "type": "light"
+  },
+  "TWJJ12": {
+    "name": "TW时钟灯",
+    "type": "light"
+  },
+  "TWJJ15": {
+    "name": "TW小白智能灯",
+    "type": "light"
+  },
+  "TWJJ18": {
+    "name": "TW时钟灯",
+    "type": "light"
+  },
+  "TWJJ19": {
+    "name": "TW时钟灯",
+    "type": "light"
+  },
+  "TWJJ20": {
+    "name": "智能夜灯",
+    "type": "light"
+  },
+  "TWJJ23": {
+    "name": "A22",
+    "type": "light"
+  },
+  "TWJJ25": {
+    "name": "T46",
+    "type": "light"
+  },
+  "TWJJ26": {
+    "name": "HGW-016",
+    "type": "light"
+  },
+  "YSL001": {
+    "name": "智能灯",
+    "type": "light"
+  },
+  "YSL002": {
+    "name": "智能灯",
+    "type": "light"
+  },
+  "YSL003": {
+    "name": "智能灯",
+    "type": "light"
+  },
+  "YSL004": {
+    "name": "智能灯",
+    "type": "light"
+  },
+  "CS0034": {
+    "name": "遥控开关灯",
+    "type": "light"
+  },
+  "WW0001": {
+    "name": "遥控开关灯",
+    "type": "light"
+  },
+  "YZYP01": {
+    "name": "蘑菇灯",
+    "type": "light"
+  },
+  "CMDZ01": {
+    "name": "聪明小夜灯",
+    "type": "light"
+  },
+  "BSL003": {
+    "name": "智能台灯",
+    "type": "light"
+  },
+  "BSL004": {
+    "name": "智能台灯",
+    "type": "light"
+  },
+  "BSL007": {
+    "name": "智能台灯",
+    "type": "light"
+  },
+  "BSL008": {
+    "name": "眼护士台灯",
+    "type": "light"
+  },
+  "BSL009": {
+    "name": "酷毙灯",
+    "type": "light"
+  },
+  "ALMD01": {
+    "name": "智能台灯",
+    "type": "light"
+  },
+  "SYKJ01": {
+    "name": "智能灯",
+    "type": "light"
+  },
+  "SYKJ02": {
+    "name": "智能灯",
+    "type": "light"
+  },
+  "SYKJ03": {
+    "name": "智能灯",
+    "type": "light"
+  },
+  "KLT001": {
+    "name": "智能台灯",
+    "type": "light"
+  },
+  "KLT002": {
+    "name": "智能灯",
+    "type": "light"
+  },
+  "KLT003": {
+    "name": "酷毙灯",
+    "type": "light"
+  },
+  "KLT005": {
+    "name": "智能台灯",
+    "type": "light"
+  },
+  "KLT006": {
+    "name": "智能台灯",
+    "type": "light"
+  },
+  "KLT007": {
+    "name": "智能台灯",
+    "type": "light"
+  },
+  "SKN001": {
+    "name": "智能灯",
+    "type": "light"
+  },
+  "JNS001": {
+    "name": "智能台灯",
+    "type": "light"
+  },
+  "JNS002": {
+    "name": "智能台灯",
+    "type": "light"
+  },
+  "JNS004": {
+    "name": "智能台灯",
+    "type": "light"
+  },
+  "XSCT01": {
+    "name": "智能台灯",
+    "type": "light"
+  },
+  "ZBKJ01": {
+    "name": "智能台灯",
+    "type": "light"
+  },
+  "FT0001": {
+    "name": "FT1",
+    "type": "light"
+  },
+  "FT0002": {
+    "name": "智能台灯",
+    "type": "light"
+  },
+  "FT0003": {
+    "name": "语音RGB",
+    "type": "light"
+  },
+  "FT0004": {
+    "name": "酷毙灯",
+    "type": "light"
+  },
+  "FT0005": {
+    "name": "语音RGB",
+    "type": "light"
+  },
+  "FT0008": {
+    "name": "床头灯",
+    "type": "light"
+  },
+  "YF0001": {
+    "name": "智能台灯",
+    "type": "light"
+  },
+  "YF0003": {
+    "name": "智能灯",
+    "type": "light"
+  },
+  "YF0005": {
+    "name": "智能台灯",
+    "type": "light"
+  },
+  "YRX002": {
+    "name": "智能台灯",
+    "type": "light"
+  },
+  "LXJ001": {
+    "name": "智能灯",
+    "type": "light"
+  },
+  "LXJ002": {
+    "name": "智能灯",
+    "type": "light"
+  },
+  "RH0001": {
+    "name": "智能台灯",
+    "type": "light"
+  },
+  "RY0001": {
+    "name": "智能灯",
+    "type": "light"
+  },
+  "RY0003": {
+    "name": "智能灯",
+    "type": "light"
+  },
+  "RY0009": {
+    "name": "智能灯",
+    "type": "light"
+  },
+  "NBSS01": {
+    "name": "钓鱼灯",
+    "type": "light"
+  },
+  "ZXDZ01": {
+    "name": "哈拿夜钓灯专用",
+    "type": "light"
+  },
+  "LYZM01": {
+    "name": "哈拿夜钓灯专用",
+    "type": "light"
+  },
+  "LYZM02": {
+    "name": "哈拿夜钓灯专用",
+    "type": "light"
+  },
+  "LYZM03": {
+    "name": "钓鱼灯",
+    "type": "light"
+  },
+  "SGX002": {
+    "name": "躺平鸭",
+    "type": "light"
+  },
+  "SGX003": {
+    "name": "太空舱",
+    "type": "light"
+  },
+  "SK0002": {
+    "name": "智能台灯",
+    "type": "light"
+  },
+  "XBL001": {
+    "name": "智能台灯",
+    "type": "light"
+  },
+  "XBL002": {
+    "name": "智能台灯",
+    "type": "light"
+  },
+  "XBL003": {
+    "name": "智能台灯",
+    "type": "light"
+  },
+  "XBL005": {
+    "name": "智能台灯",
+    "type": "light"
+  },
+  "XBL006": {
+    "name": "酷毙灯",
+    "type": "light"
+  },
+  "XBL007": {
+    "name": "智能台灯",
+    "type": "light"
+  },
+  "XBL010": {
+    "name": "酷毙灯",
+    "type": "light"
+  },
+  "YLM001": {
+    "name": "智能台灯",
+    "type": "light"
+  },
+  "YLM002": {
+    "name": "智能台灯",
+    "type": "light"
+  },
+  "YLM003": {
+    "name": "智能台灯",
+    "type": "light"
+  },
+  "WDS001": {
+    "name": "智能台灯",
+    "type": "light"
+  },
+  "WDS002": {
+    "name": "智能台灯",
+    "type": "light"
+  },
+  "MDDQ01": {
+    "name": "智能台灯",
+    "type": "light"
+  },
+  "YZDS01": {
+    "name": "智能台灯",
+    "type": "light"
+  },
+  "YZDS02": {
+    "name": "智能台灯",
+    "type": "light"
+  },
+  "LM0002": {
+    "name": "太空萌宠灯E",
+    "type": "light"
+  },
+  "LM0003": {
+    "name": "太空萌宠灯F",
+    "type": "light"
+  },
+  "LM0004": {
+    "name": "太空萌宠灯G",
+    "type": "light"
+  },
+  "LM0006": {
+    "name": "仙人掌",
+    "type": "light"
+  },
+  "HLY001": {
+    "name": "可爱度",
+    "type": "light"
+  },
+  "HLY002": {
+    "name": "时钟小夜灯",
+    "type": "light"
+  },
+  "ZD0006": {
+    "name": "小喵同学",
+    "type": "light"
+  },
+  "ZD0008": {
+    "name": "小喵同学",
+    "type": "light"
+  },
+  "ZD0012": {
+    "name": "小喵同学",
+    "type": "light"
+  },
+  "WH0001": {
+    "name": "玫瑰灯",
+    "type": "light"
+  },
+  "BDCY05": {
+    "name": "太空灯",
+    "type": "light"
+  },
+  "JPHY01": {
+    "name": "小夜灯",
+    "type": "light"
+  },
+  "MZDS01": {
+    "name": "小夜灯",
+    "type": "light"
+  },
+  "MZDS02": {
+    "name": "小夜灯",
+    "type": "light"
+  },
+  "LBE001": {
+    "name": "小夜灯",
+    "type": "light"
+  },
+  "LBE002": {
+    "name": "小夜灯",
+    "type": "light"
+  },
+  "CJD002": {
+    "name": "小夜灯",
+    "type": "light"
+  },
+  "XR0006": {
+    "name": "小夜灯",
+    "type": "light"
+  },
+  "XR0007": {
+    "name": "小夜灯",
+    "type": "light"
+  },
+  "FRK001": {
+    "name": "智能小夜灯",
+    "type": "light"
+  },
+  "MYZN01": {
+    "name": "智慧照明",
+    "type": "light"
+  },
+  "YM0005": {
+    "name": "消毒灯",
+    "type": "light"
+  },
+  "YM0006": {
+    "name": "消毒灯",
+    "type": "light"
+  },
+  "QY0020": {
+    "name": "智能台灯",
+    "type": "light"
+  },
+  "YC0001": {
+    "name": "消毒灯",
+    "type": "light"
+  },
+  "YC0002": {
+    "name": "智能台灯",
+    "type": "light"
+  },
+  "WX0001": {
+    "name": "小夜灯",
+    "type": "light"
+  },
+  "SYDZ09": {
+    "name": "彩灯",
+    "type": "light"
+  },
+  "ZBJT03": {
+    "name": "智能台灯",
+    "type": "light"
+  },
+  "JY0016": {
+    "name": "智能台灯",
+    "type": "light"
+  },
+  "JY0027": {
+    "name": "语音小夜灯",
+    "type": "light"
+  },
+  "JY0030": {
+    "name": "语音小夜灯",
+    "type": "light"
+  },
+  "IS0126": {
+    "name": "智能台灯",
+    "type": "light"
+  },
+  "IS0128": {
+    "name": "M2_3P_语音识别",
+    "type": "light"
+  },
+  "IS0129": {
+    "name": "M3_4P_双向",
+    "type": "light"
+  },
+  "IS0130": {
+    "name": "M4_3P_双向",
+    "type": "light"
+  },
+  "IS0131": {
+    "name": "M5_3P_单向",
+    "type": "light"
+  },
+  "IS0132": {
+    "name": "智能台灯",
+    "type": "light"
+  },
+  "IS0134": {
+    "name": "语音模块",
+    "type": "light"
+  },
+  "IS0135": {
+    "name": "小夜灯",
+    "type": "light"
+  },
+  "IS0136": {
+    "name": "3D小夜灯",
+    "type": "light"
+  },
+  "IS0143": {
+    "name": "智能台灯",
+    "type": "light"
+  },
+  "IS0145": {
+    "name": "夜灯",
+    "type": "light"
+  },
+  "IS0146": {
+    "name": "智能小夜灯",
+    "type": "light"
+  },
+  "IS0147": {
+    "name": "智能夜灯",
+    "type": "light"
+  },
+  "IS0180": {
+    "name": "语音小夜灯",
+    "type": "light"
+  },
+  "IS0141": {
+    "name": "语音通断器",
+    "type": "light"
+  },
+  "IS0142": {
+    "name": "语音通断器",
+    "type": "light"
+  },
+  "IS0170": {
+    "name": "线控开关",
+    "type": "light"
+  },
+  "ZSSJ01": {
+    "name": "线控开关",
+    "type": "light"
+  },
+  "BNOG01": {
+    "name": "通断器",
+    "type": "light"
+  },
+  "ADB002": {
+    "name": "集控语音开关",
+    "type": "light"
+  },
+  "LLZM01": {
+    "name": "集控语音开关",
+    "type": "light"
+  },
+  "TKF004": {
+    "name": "语音通断器",
+    "type": "light"
+  },
+  "YM0007": {
+    "name": "智能灯",
+    "type": "light"
+  },
+  "SZRQ01": {
+    "name": "风扇灯",
+    "type": "light"
+  },
+  "NHKX01": {
+    "name": "星空灯",
+    "type": "light"
+  },
+  "FSJH01": {
+    "name": "落地灯",
+    "type": "light"
+  },
+  "HZY001": {
+    "name": "HZY001",
+    "type": "light"
+  },
+  "ZSWC01": {
+    "name": "HOSE赫希",
+    "type": "light"
+  },
+  "ZSLY01": {
+    "name": "ZSLY01",
+    "type": "light"
+  },
+  "ZSQY01": {
+    "name": "水族灯",
+    "type": "light"
+  },
+  "ZSKK01": {
+    "name": "COCO可可小鱼",
+    "type": "light"
+  },
+  "CS0020": {
+    "name": "智能小夜灯",
+    "type": "light"
+  },
+  "IS0239": {
+    "name": "空伴照明",
+    "type": "light"
+  },
+  "IS0270": {
+    "name": "空伴照明",
+    "type": "light"
+  },
+  "IS0275": {
+    "name": "空伴照明",
+    "type": "light"
+  },
+  "IS0282": {
+    "name": "空伴照明",
+    "type": "light"
+  },
+  "IS0283": {
+    "name": "空伴照明",
+    "type": "light"
+  },
+  "SZGH01": {
+    "name": "Aquarium lamp",
+    "type": "aquarium"
+  },
+  "YFJ001": {
+    "name": "按摩精灵",
+    "type": "uart"
+  },
+  "LKX002": {
+    "name": "Carpf",
+    "type": "uart"
+  },
+  "LKX003": {
+    "name": "Carpf",
+    "type": "uart"
+  },
+  "HZSY02": {
+    "name": "语音沙发",
+    "type": "uart"
+  },
+  "HZSY03": {
+    "name": "智能晾衣架",
+    "type": "uart"
+  },
+  "CZGK01": {
+    "name": "智能马桶",
+    "type": "uart"
+  },
+  "CZGK03": {
+    "name": "智能马桶",
+    "type": "uart"
+  },
+  "HYJY07": {
+    "name": "浴霸开关",
+    "type": "uart"
+  },
+  "SZCX05": {
+    "name": "语音加湿器",
+    "type": "uart"
+  },
+  "SZYD01": {
+    "name": "UDIAN",
+    "type": "uart"
+  },
+  "HZDB01": {
+    "name": "言仓暖宫宝",
+    "type": "uart"
+  },
+  "ZSMR01": {
+    "name": "ZSMR01",
+    "type": "uart"
+  },
+  "YM0013": {
+    "name": "智能增氧泵",
+    "type": "uart"
+  },
+  "YM0014": {
+    "name": "智能增氧泵",
+    "type": "uart"
+  },
+  "YD0001": {
+    "name": "智能茶吧机",
+    "type": "unknown"
+  },
+  "YD0002": {
+    "name": "智能茶吧机",
+    "type": "unknown"
+  },
+  "UD0002": {
+    "name": "智能茶吧机",
+    "type": "unknown"
+  },
+  "UD0003": {
+    "name": "智能茶吧机",
+    "type": "unknown"
+  },
+  "NBZC01": {
+    "name": "智能茶吧机",
+    "type": "unknown"
+  },
+  "UD0004": {
+    "name": "智能茶吧机",
+    "type": "unknown"
+  },
+  "UD0005": {
+    "name": "智能茶吧机",
+    "type": "unknown"
+  },
+  "UD0007": {
+    "name": "智能茶吧机",
+    "type": "unknown"
+  },
+  "UD0008": {
+    "name": "智能上水壶",
+    "type": "unknown"
+  },
+  "UD0009": {
+    "name": "除湿机",
+    "type": "unknown"
+  },
+  "IS0108": {
+    "name": "智能茶吧机",
+    "type": "unknown"
+  },
+  "KSJ002": {
+    "name": "智能茶吧机",
+    "type": "unknown"
+  },
+  "XH0001": {
+    "name": "智能加湿器",
+    "type": "unknown"
+  },
+  "XH0003": {
+    "name": "智能茶炉",
+    "type": "unknown"
+  },
+  "XH0004": {
+    "name": "智能茶炉",
+    "type": "unknown"
+  },
+  "XH0005": {
+    "name": "智能茶炉",
+    "type": "unknown"
+  },
+  "XH0006": {
+    "name": "智能茶炉",
+    "type": "unknown"
+  },
+  "XH0007": {
+    "name": "智能茶炉",
+    "type": "unknown"
+  },
+  "JX0001": {
+    "name": "智能茶炉",
+    "type": "unknown"
+  },
+  "DTGJ01": {
+    "name": "DTO",
+    "type": "unknown"
+  },
+  "DTGJ02": {
+    "name": "DTO东陶",
+    "type": "unknown"
+  },
+  "QD0001": {
+    "name": "智能茶吧机",
+    "type": "unknown"
+  },
+  "FYKJ01": {
+    "name": "电热毯",
+    "type": "unknown"
+  },
+  "BX0001": {
+    "name": "智能茶吧机",
+    "type": "unknown"
+  },
+  "BX0002": {
+    "name": "智能干衣机",
+    "type": "unknown"
+  },
+  "BX0003": {
+    "name": "智能茶吧机",
+    "type": "unknown"
+  },
+  "BX0004": {
+    "name": "智能茶吧机",
+    "type": "unknown"
+  },
+  "BX0005": {
+    "name": "智能茶吧机",
+    "type": "unknown"
+  },
+  "BX0006": {
+    "name": "智能茶吧机",
+    "type": "unknown"
+  },
+  "BX0007": {
+    "name": "智能茶吧机",
+    "type": "unknown"
+  },
+  "ZSHD01": {
+    "name": "智能茶吧机",
+    "type": "unknown"
+  },
+  "CT0001": {
+    "name": "智能茶吧机",
+    "type": "unknown"
+  },
+  "CT0003": {
+    "name": "智能茶吧机",
+    "type": "unknown"
+  },
+  "KLTD01": {
+    "name": "智能茶吧机",
+    "type": "unknown"
+  },
+  "KLTD02": {
+    "name": "养生茶艺炉",
+    "type": "unknown"
+  },
+  "KLTD03": {
+    "name": "智能茶吧机",
+    "type": "unknown"
+  },
+  "KLTD05": {
+    "name": "笛浪智能",
+    "type": "unknown"
+  },
+  "PHT001": {
+    "name": "智能茶吧机",
+    "type": "unknown"
+  },
+  "CS0033": {
+    "name": "智能足浴",
+    "type": "unknown"
+  },
+  "YK0001": {
+    "name": "智能足浴",
+    "type": "unknown"
+  },
+  "MW0002": {
+    "name": "智能足浴器",
+    "type": "unknown"
+  },
+  "MW0003": {
+    "name": "智能足浴器",
+    "type": "unknown"
+  },
+  "MW0004": {
+    "name": "智能足浴器",
+    "type": "unknown"
+  },
+  "MW0010": {
+    "name": "荣事达足浴器",
+    "type": "unknown"
+  },
+  "MW0020": {
+    "name": "智能足浴器",
+    "type": "unknown"
+  },
+  "MW0030": {
+    "name": "智能足浴器",
+    "type": "unknown"
+  },
+  "MW0040": {
+    "name": "智能足浴器",
+    "type": "unknown"
+  },
+  "SP0001": {
+    "name": "足浴盆",
+    "type": "unknown"
+  },
+  "QM0001": {
+    "name": "智能足浴",
+    "type": "unknown"
+  },
+  "BN0001": {
+    "name": "智能足浴",
+    "type": "unknown"
+  },
+  "BN0002": {
+    "name": "智能风扇",
+    "type": "unknown"
+  },
+  "BN0003": {
+    "name": "智能取暖器",
+    "type": "unknown"
+  },
+  "BN0004": {
+    "name": "智能足浴",
+    "type": "unknown"
+  },
+  "BN0005": {
+    "name": "智能取暖器",
+    "type": "unknown"
+  },
+  "BN0006": {
+    "name": "智能取暖器",
+    "type": "unknown"
+  },
+  "BN0007": {
+    "name": "智能风扇",
+    "type": "unknown"
+  },
+  "BN0008": {
+    "name": "智能风扇",
+    "type": "unknown"
+  },
+  "BN0009": {
+    "name": "智能风扇",
+    "type": "unknown"
+  },
+  "BN0010": {
+    "name": "智能风扇",
+    "type": "unknown"
+  },
+  "BN0011": {
+    "name": "智能风扇",
+    "type": "unknown"
+  },
+  "BN0012": {
+    "name": "智能风扇",
+    "type": "unknown"
+  },
+  "BN0013": {
+    "name": "智能风扇",
+    "type": "unknown"
+  },
+  "BN0015": {
+    "name": "智能取暖器",
+    "type": "unknown"
+  },
+  "BN0017": {
+    "name": "智能取暖器",
+    "type": "unknown"
+  },
+  "BN0018": {
+    "name": "智能风扇",
+    "type": "unknown"
+  },
+  "BN0019": {
+    "name": "智能风扇",
+    "type": "unknown"
+  },
+  "BN0020": {
+    "name": "智能风扇",
+    "type": "unknown"
+  },
+  "BN0021": {
+    "name": "智能风扇",
+    "type": "unknown"
+  },
+  "BN0022": {
+    "name": "智能风扇",
+    "type": "unknown"
+  },
+  "BN0023": {
+    "name": "智能风扇",
+    "type": "unknown"
+  },
+  "CS0015": {
+    "name": "智能足浴",
+    "type": "unknown"
+  },
+  "QY0001": {
+    "name": "智能足浴",
+    "type": "unknown"
+  },
+  "QY0002": {
+    "name": "智能足浴器",
+    "type": "unknown"
+  },
+  "QY0003": {
+    "name": "智能足浴器",
+    "type": "unknown"
+  },
+  "QY0004": {
+    "name": "智能足浴",
+    "type": "unknown"
+  },
+  "QY0005": {
+    "name": "智能足浴",
+    "type": "unknown"
+  },
+  "QY0006": {
+    "name": "智能足浴",
+    "type": "unknown"
+  },
+  "QY0007": {
+    "name": "智能足浴",
+    "type": "unknown"
+  },
+  "QY0008": {
+    "name": "智能足浴",
+    "type": "unknown"
+  },
+  "QY0010": {
+    "name": "智能足浴",
+    "type": "unknown"
+  },
+  "CS0017": {
+    "name": "智能足浴",
+    "type": "unknown"
+  },
+  "QY0011": {
+    "name": "智能足浴",
+    "type": "unknown"
+  },
+  "QY0012": {
+    "name": "智能水暖炕",
+    "type": "unknown"
+  },
+  "QY0014": {
+    "name": "智能风扇",
+    "type": "unknown"
+  },
+  "QY0015": {
+    "name": "智能风扇",
+    "type": "unknown"
+  },
+  "QY0016": {
+    "name": "智能足浴",
+    "type": "unknown"
+  },
+  "QY0018": {
+    "name": "水暖毯",
+    "type": "unknown"
+  },
+  "QY0019": {
+    "name": "新风机",
+    "type": "unknown"
+  },
+  "QY0021": {
+    "name": "智能足浴器",
+    "type": "unknown"
+  },
+  "QY0022": {
+    "name": "智能足浴器",
+    "type": "unknown"
+  },
+  "QY0023": {
+    "name": "智能足浴器",
+    "type": "unknown"
+  },
+  "QY0025": {
+    "name": "智能足浴",
+    "type": "unknown"
+  },
+  "QY0027": {
+    "name": "智能足浴器",
+    "type": "unknown"
+  },
+  "HRDZ01": {
+    "name": "智能足浴器",
+    "type": "unknown"
+  },
+  "HRDZ02": {
+    "name": "暖风机",
+    "type": "unknown"
+  },
+  "HRDZ03": {
+    "name": "智能风扇",
+    "type": "unknown"
+  },
+  "LKS001": {
+    "name": "暖风机",
+    "type": "unknown"
+  },
+  "YYGM01": {
+    "name": "桑拿浴",
+    "type": "unknown"
+  },
+  "WQ0001": {
+    "name": "智能马桶",
+    "type": "unknown"
+  },
+  "WQ0002": {
+    "name": "智能马桶",
+    "type": "unknown"
+  },
+  "WQ0006": {
+    "name": "智能马桶",
+    "type": "unknown"
+  },
+  "CM0001": {
+    "name": "智能马桶",
+    "type": "unknown"
+  },
+  "CM0002": {
+    "name": "智能马桶",
+    "type": "unknown"
+  },
+  "CM0003": {
+    "name": "智能马桶",
+    "type": "unknown"
+  },
+  "CM0004": {
+    "name": "智能马桶",
+    "type": "unknown"
+  },
+  "CM0006": {
+    "name": "智能马桶",
+    "type": "unknown"
+  },
+  "SZSX01": {
+    "name": "智能马桶",
+    "type": "unknown"
+  },
+  "SZQZ01": {
+    "name": "智能马桶",
+    "type": "unknown"
+  },
+  "SZQZ02": {
+    "name": "智能马桶",
+    "type": "unknown"
+  },
+  "SZQZ03": {
+    "name": "智能马桶",
+    "type": "stool"
+  },
+  "ZSYK01": {
+    "name": "智能马桶",
+    "type": "unknown"
+  },
+  "ZSYK02": {
+    "name": "智能马桶",
+    "type": "unknown"
+  },
+  "LF0001": {
+    "name": "智能马桶",
+    "type": "unknown"
+  },
+  "JYDZ01": {
+    "name": "智能马桶",
+    "type": "unknown"
+  },
+  "BE0001": {
+    "name": "智能护颈仪",
+    "type": "unknown"
+  },
+  "ZZ0001": {
+    "name": "智能风扇",
+    "type": "unknown"
+  },
+  "ZZ0002": {
+    "name": "家奈风扇",
+    "type": "unknown"
+  },
+  "SZWX01": {
+    "name": "智能风扇",
+    "type": "unknown"
+  },
+  "FY0001": {
+    "name": "智能茶吧机",
+    "type": "unknown"
+  },
+  "FY0002": {
+    "name": "家奈风扇",
+    "type": "unknown"
+  },
+  "FY0003": {
+    "name": "家奈风扇",
+    "type": "unknown"
+  },
+  "JT0001": {
+    "name": "智能风扇",
+    "type": "unknown"
+  },
+  "JT0002": {
+    "name": "智能取暖器",
+    "type": "unknown"
+  },
+  "JT0003": {
+    "name": "智能取暖器",
+    "type": "unknown"
+  },
+  "JT0005": {
+    "name": "智能取暖器",
+    "type": "unknown"
+  },
+  "SHW001": {
+    "name": "智能风扇",
+    "type": "unknown"
+  },
+  "IS0110": {
+    "name": "智能风扇",
+    "type": "unknown"
+  },
+  "IS0113": {
+    "name": "特斯诗风扇",
+    "type": "unknown"
+  },
+  "RK0002": {
+    "name": "智能按摩椅",
+    "type": "unknown"
+  },
+  "YW0001": {
+    "name": "智能按摩椅",
+    "type": "unknown"
+  },
+  "ZJ0001": {
+    "name": "智能风扇",
+    "type": "unknown"
+  },
+  "ZJ0002": {
+    "name": "智能风扇",
+    "type": "unknown"
+  },
+  "ZJ0004": {
+    "name": "智能干衣机",
+    "type": "unknown"
+  },
+  "NBQS01": {
+    "name": "离子净化器",
+    "type": "unknown"
+  },
+  "NBQS02": {
+    "name": "电暖器",
+    "type": "unknown"
+  },
+  "NBQS03": {
+    "name": "怀里智能浴宝",
+    "type": "unknown"
+  },
+  "NBQS05": {
+    "name": "净化器",
+    "type": "unknown"
+  },
+  "SH0001": {
+    "name": "智能风扇",
+    "type": "unknown"
+  },
+  "HY0001": {
+    "name": "智能风扇",
+    "type": "unknown"
+  },
+  "HY0002": {
+    "name": "智能风扇",
+    "type": "unknown"
+  },
+  "ZSHY01": {
+    "name": "智能暖菜板",
+    "type": "unknown"
+  },
+  "LYKJ01": {
+    "name": "智能风扇",
+    "type": "unknown"
+  },
+  "LYKJ02": {
+    "name": "智能风扇",
+    "type": "unknown"
+  },
+  "LYKJ05": {
+    "name": "智能风扇",
+    "type": "unknown"
+  },
+  "LYKJ06": {
+    "name": "智能风扇",
+    "type": "unknown"
+  },
+  "LXK001": {
+    "name": "智能风扇",
+    "type": "unknown"
+  },
+  "XCP001": {
+    "name": "智能风扇",
+    "type": "unknown"
+  },
+  "CK0001": {
+    "name": "智能风扇",
+    "type": "unknown"
+  },
+  "XSKJ01": {
+    "name": "宠物球",
+    "type": "unknown"
+  },
+  "YQ0001": {
+    "name": "宠物干燥箱",
+    "type": "unknown"
+  },
+  "YQ0002": {
+    "name": "宠物干燥箱KD002",
+    "type": "unknown"
+  },
+  "HYJY06": {
+    "name": "宠物烘干箱",
+    "type": "unknown"
+  },
+  "YQ0005": {
+    "name": "浴霸开关",
+    "type": "unknown"
+  },
+  "YQ0006": {
+    "name": "浴霸开关",
+    "type": "unknown"
+  },
+  "JXYX02": {
+    "name": "浴霸开关",
+    "type": "unknown"
+  },
+  "HD0002": {
+    "name": "智能风扇",
+    "type": "unknown"
+  },
+  "HD0003": {
+    "name": "除湿机",
+    "type": "unknown"
+  },
+  "HD0004": {
+    "name": "Dehumidifier",
+    "type": "unknown"
+  },
+  "HD0006": {
+    "name": "除湿机",
+    "type": "unknown"
+  },
+  "SY0001": {
+    "name": "智能足浴",
+    "type": "unknown"
+  },
+  "XL0001": {
+    "name": "智能取暖器",
+    "type": "unknown"
+  },
+  "XL0002": {
+    "name": "智能风扇",
+    "type": "unknown"
+  },
+  "XL0003": {
+    "name": "澳柯玛取暖器",
+    "type": "unknown"
+  },
+  "ZX0001": {
+    "name": "智能揉腹仪",
+    "type": "unknown"
+  },
+  "ZX0002": {
+    "name": "智能揉腹仪",
+    "type": "unknown"
+  },
+  "ZX0003": {
+    "name": "智能揉腹仪",
+    "type": "unknown"
+  },
+  "ZX0004": {
+    "name": "智能揉腹仪",
+    "type": "unknown"
+  },
+  "MB0001": {
+    "name": "智能揉腹仪",
+    "type": "unknown"
+  },
+  "MB0002": {
+    "name": "解眉呼吸枕",
+    "type": "unknown"
+  },
+  "MB0003": {
+    "name": "按摩披肩",
+    "type": "unknown"
+  },
+  "TC0001": {
+    "name": "智能足浴",
+    "type": "unknown"
+  },
+  "BE0002": {
+    "name": "H70",
+    "type": "unknown"
+  },
+  "HXT001": {
+    "name": "Neck Massager N5",
+    "type": "unknown"
+  },
+  "PGDZ01": {
+    "name": "KTR-306",
+    "type": "unknown"
+  },
+  "JNS005": {
+    "name": "暖菜板",
+    "type": "unknown"
+  },
+  "SSSY01": {
+    "name": "YY-SHU SEN",
+    "type": "unknown"
+  },
+  "SSSY03": {
+    "name": "YY-SHU SEN",
+    "type": "unknown"
+  },
+  "SSSY06": {
+    "name": "眼部按摩仪",
+    "type": "unknown"
+  },
+  "SSSY07": {
+    "name": "手持加湿器",
+    "type": "unknown"
+  },
+  "RXD002": {
+    "name": "矫姿带",
+    "type": "unknown"
+  },
+  "RXD003": {
+    "name": "矫正带",
+    "type": "unknown"
+  },
+  "RXD004": {
+    "name": "按摩仪",
+    "type": "unknown"
+  },
+  "RXD005": {
+    "name": "矫正带",
+    "type": "unknown"
+  },
+  "RXD007": {
+    "name": "矫正带",
+    "type": "unknown"
+  },
+  "JJDZ01": {
+    "name": "智能理疗",
+    "type": "unknown"
+  },
+  "MK0001": {
+    "name": "浴霸开关",
+    "type": "unknown"
+  },
+  "MK0002": {
+    "name": "浴霸开关",
+    "type": "unknown"
+  },
+  "MK0003": {
+    "name": "浴霸开关",
+    "type": "unknown"
+  },
+  "ZPJ001": {
+    "name": "浴霸开关",
+    "type": "unknown"
+  },
+  "HYJY01": {
+    "name": "浴霸开关",
+    "type": "unknown"
+  },
+  "HYJY02": {
+    "name": "浴霸开关",
+    "type": "unknown"
+  },
+  "HYJY03": {
+    "name": "智能台灯",
+    "type": "unknown"
+  },
+  "HYJY05": {
+    "name": "浴霸开关",
+    "type": "unknown"
+  },
+  "IS0213": {
+    "name": "时控开关",
+    "type": "socket"
+  },
+  "IS0214": {
+    "name": "时控开关",
+    "type": "socket"
+  },
+  "IS0215": {
+    "name": "时控开关",
+    "type": "socket"
+  },
+  "IS0151": {
+    "name": "热水器",
+    "type": "socket"
+  },
+  "ZSWY01": {
+    "name": "时控开关",
+    "type": "socket"
+  },
+  "IS0271": {
+    "name": "计量时控开关",
+    "type": "socket"
+  },
+  "XC0001": {
+    "name": "XC008",
+    "type": "unknown"
+  },
+  "XC0002": {
+    "name": "智能茶炉",
+    "type": "unknown"
+  },
+  "XC0003": {
+    "name": "智能上水壶",
+    "type": "unknown"
+  },
+  "XT0001": {
+    "name": "智能茶吧机",
+    "type": "unknown"
+  },
+  "TZQ001": {
+    "name": "智能茶吧机",
+    "type": "unknown"
+  },
+  "TZQ002": {
+    "name": "电陶炉",
+    "type": "unknown"
+  },
+  "TZQ003": {
+    "name": "智能上水壶",
+    "type": "unknown"
+  },
+  "RY0005": {
+    "name": "智能揉腹仪",
+    "type": "unknown"
+  },
+  "FSOB01": {
+    "name": "紫外线消毒器",
+    "type": "unknown"
+  },
+  "FSOB02": {
+    "name": "消毒柜",
+    "type": "unknown"
+  },
+  "ZRY001": {
+    "name": "NW1180",
+    "type": "unknown"
+  },
+  "WST001": {
+    "name": "智能浴室镜",
+    "type": "unknown"
+  },
+  "YM0011": {
+    "name": "智能熏蒸机",
+    "type": "unknown"
+  },
+  "YY0001": {
+    "name": "元羿智控设备",
+    "type": "unknown"
+  },
+  "LKSD01": {
+    "name": "热水器",
+    "type": "unknown"
+  },
+  "YFD001": {
+    "name": "热水器",
+    "type": "unknown"
+  },
+  "JTY001": {
+    "name": "娃娃项目",
+    "type": "unknown"
+  },
+  "JTY002": {
+    "name": "机器人",
+    "type": "unknown"
+  },
+  "HXW001": {
+    "name": "电饭煲",
+    "type": "unknown"
+  },
+  "GLG001": {
+    "name": "温控器",
+    "type": "unknown"
+  },
+  "GLG002": {
+    "name": "温控器",
+    "type": "unknown"
+  },
+  "GLG003": {
+    "name": "温控器",
+    "type": "unknown"
+  },
+  "GLG005": {
+    "name": "温控器",
+    "type": "unknown"
+  },
+  "GLG006": {
+    "name": "温控器",
+    "type": "unknown"
+  },
+  "GLG007": {
+    "name": "温控器",
+    "type": "unknown"
+  },
+  "GLG018": {
+    "name": "温控器",
+    "type": "unknown"
+  },
+  "GLG020": {
+    "name": "温控器",
+    "type": "unknown"
+  },
+  "GLG025": {
+    "name": "温控器",
+    "type": "unknown"
+  },
+  "GLG026": {
+    "name": "温控器",
+    "type": "unknown"
+  },
+  "GLG028": {
+    "name": "温控器",
+    "type": "unknown"
+  },
+  "GLG031": {
+    "name": "温控器",
+    "type": "unknown"
+  },
+  "JYZN01": {
+    "name": "智能风扇",
+    "type": "unknown"
+  },
+  "SYDZ01": {
+    "name": "智能取暖器",
+    "type": "unknown"
+  },
+  "SYDZ02": {
+    "name": "智能取暖器",
+    "type": "unknown"
+  },
+  "SYDZ03": {
+    "name": "取暖桌",
+    "type": "unknown"
+  },
+  "SYDZ05": {
+    "name": "床垫",
+    "type": "unknown"
+  },
+  "SYDZ06": {
+    "name": "智能取暖器",
+    "type": "unknown"
+  },
+  "SYDZ07": {
+    "name": "智能取暖器",
+    "type": "unknown"
+  },
+  "SYDZ08": {
+    "name": "智能取暖器",
+    "type": "unknown"
+  },
+  "HDC009": {
+    "name": "空调伴侣",
+    "type": "unknown"
+  },
+  "HDC011": {
+    "name": "空调伴侣",
+    "type": "unknown"
+  },
+  "HDC023": {
+    "name": "调色板",
+    "type": "unknown"
+  },
+  "ZBJT01": {
+    "name": "空调伴侣",
+    "type": "unknown"
+  },
+  "YM0009": {
+    "name": "空调伴侣",
+    "type": "unknown"
+  },
+  "JSQ001": {
+    "name": "香薰机",
+    "type": "unknown"
+  },
+  "IS0115": {
+    "name": "爱尚测试号",
+    "type": "unknown"
+  },
+  "IS0123": {
+    "name": "智能足浴",
+    "type": "unknown"
+  },
+  "IS0124": {
+    "name": "智能按摩椅",
+    "type": "unknown"
+  },
+  "IS0125": {
+    "name": "智能足浴",
+    "type": "unknown"
+  },
+  "IS0133": {
+    "name": "脊安适按摩器G6",
+    "type": "unknown"
+  },
+  "IS0140": {
+    "name": "智能风扇",
+    "type": "unknown"
+  },
+  "IS0149": {
+    "name": "香薰机",
+    "type": "unknown"
+  },
+  "IS014A": {
+    "name": "香薰机",
+    "type": "unknown"
+  },
+  "IS0160": {
+    "name": "空调伴侣",
+    "type": "unknown"
+  },
+  "IS0161": {
+    "name": "空调伴侣",
+    "type": "unknown"
+  },
+  "IS0211": {
+    "name": "爱尚风扇模块",
+    "type": "unknown"
+  },
+  "HZDZ01": {
+    "name": "按摩器",
+    "type": "unknown"
+  },
+  "HYDZ01": {
+    "name": "通断器",
+    "type": "unknown"
+  },
+  "HYDZ02": {
+    "name": "通断器",
+    "type": "unknown"
+  },
+  "ADB001": {
+    "name": "爱灯堡智能灯光系统",
+    "type": "unknown"
+  },
+  "MLT001": {
+    "name": "发牌机",
+    "type": "unknown"
+  },
+  "MLT002": {
+    "name": "发牌机",
+    "type": "unknown"
+  },
+  "YYYD01": {
+    "name": "取暖器",
+    "type": "unknown"
+  },
+  "YZD001": {
+    "name": "温控开关",
+    "type": "unknown"
+  },
+  "YZD002": {
+    "name": "温控开关",
+    "type": "unknown"
+  },
+  "HZSY01": {
+    "name": "电动晾衣架",
+    "type": "unknown"
+  },
+  "SZDP01": {
+    "name": "ER-Z15美臀仪",
+    "type": "unknown"
+  },
+  "SZDP02": {
+    "name": "ER-Z15美臀仪",
+    "type": "unknown"
+  },
+  "SZDP03": {
+    "name": "美眼仪",
+    "type": "ble-server"
+  },
+  "SZDP04": {
+    "name": "智能医美面膜",
+    "type": "ble-server"
+  },
+  "SZHT01": {
+    "name": "暖宫宝",
+    "type": "unknown"
+  },
+  "SZHT02": {
+    "name": "护腰带",
+    "type": "unknown"
+  },
+  "SZHT03": {
+    "name": "理疗仪",
+    "type": "unknown"
+  },
+  "YYFA01": {
+    "name": "露营灯",
+    "type": "rgb"
+  },
+  "SZLD01": {
+    "name": "智能穿戴",
+    "type": "unknown"
+  },
+  "SZLD02": {
+    "name": "智能穿戴",
+    "type": "unknown"
+  },
+  "JXYX01": {
+    "name": "浴霸开关",
+    "type": "unknown"
+  },
+  "LYZM05": {
+    "name": "哈拿夜钓灯专用",
+    "type": "password"
+  },
+  "LYZM06": {
+    "name": "钓鱼灯",
+    "type": "password"
+  },
+  "LYZM07": {
+    "name": "哈拿夜钓灯专用",
+    "type": "password"
+  },
+  "LYZM08": {
+    "name": "哈拿夜钓灯专用",
+    "type": "password"
+  },
+  "LYZM09": {
+    "name": "哈拿灯具专用",
+    "type": "password"
+  },
+  "LYZM10": {
+    "name": "哈拿灯具专用",
+    "type": "password"
+  },
+  "DGTS01": {
+    "name": "六鱼·S5变焦聚光炮",
+    "type": "password"
+  },
+  "DGRK01": {
+    "name": "K7按摩腰带",
+    "type": "unknown"
+  },
+  "DGRK02": {
+    "name": "K7按摩腰带",
+    "type": "unknown"
+  },
+  "PYAH01": {
+    "name": "",
+    "type": "unknown"
+  },
+  "PYAH02": {
+    "name": "",
+    "type": "unknown"
+  },
+  "DGKH01": {
+    "name": "",
+    "type": "unknown"
+  },
+  "DGKH02": {
+    "name": "",
+    "type": "unknown"
+  },
+  "DGKH03": {
+    "name": "车智控",
+    "type": "unknown"
+  },
+  "NBXD01": {
+    "name": "防录音卫士",
+    "type": "password"
+  },
+  "DGHF01": {
+    "name": "盛坤智能",
+    "type": "unknown"
+  },
+  "YYWC01": {
+    "name": "电水壶",
+    "type": "kettle"
+  },
+  "ZSGD01": {
+    "name": "风扇灯",
+    "type": "unknown"
+  },
+  "HLX001": {
+    "name": "电饭煲",
+    "type": "unknown"
+  },
+  "HLX002": {
+    "name": "风扇",
+    "type": "unknown"
+  },
+  "DGYF01": {
+    "name": "风扇",
+    "type": "unknown"
+  },
+  "LFY002": {
+    "name": "风扇",
+    "type": "unknown"
+  },
+  "LKX001": {
+    "name": "按摩仪",
+    "type": "unknown"
+  },
+  "SZYL01": {
+    "name": "暖宫宝",
+    "type": "unknown"
+  },
+  "APY001": {
+    "name": "暖宫宝",
+    "type": "unknown"
+  },
+  "TMS001": {
+    "name": "暖宫宝",
+    "type": "unknown"
+  },
+  "LXDQ02": {
+    "name": "智能医美面膜",
+    "type": "unknown"
+  },
+  "IS0217": {
+    "name": "时控商照",
+    "type": "socket"
+  },
+  "IS0218": {
+    "name": "时控开关",
+    "type": "socket"
+  },
+  "YQOB01": {
+    "name": "时控开关",
+    "type": "socket"
+  },
+  "IS0219": {
+    "name": "时控开关",
+    "type": "socket"
+  },
+  "IS0222": {
+    "name": "时控开关",
+    "type": "socket"
+  },
+  "IS0223": {
+    "name": "时控开关",
+    "type": "socket"
+  },
+  "ZSLX01": {
+    "name": "时控开关",
+    "type": "socket"
+  },
+  "ZJLY01": {
+    "name": "时控开关",
+    "type": "socket"
+  },
+  "WZHF03": {
+    "name": "时控开关",
+    "type": "socket"
+  },
+  "WZHF05": {
+    "name": "时控开关",
+    "type": "socket"
+  },
+  "WZHF06": {
+    "name": "时控开关",
+    "type": "socket"
+  },
+  "TZJD02": {
+    "name": "时控开关",
+    "type": "socket"
+  },
+  "YQZX01": {
+    "name": "时控开关",
+    "type": "socket"
+  },
+  "DZL002": {
+    "name": "时控开关",
+    "type": "socket"
+  },
+  "CXFT03": {
+    "name": "时控开关",
+    "type": "socket"
+  },
+  "SZCJ01": {
+    "name": "时控开关",
+    "type": "socket"
+  },
+  "ZJGD01": {
+    "name": "时控开关",
+    "type": "socket"
+  },
+  "DGFJ03": {
+    "name": "时控开关",
+    "type": "socket"
+  },
+  "NBE005": {
+    "name": "单火线时控开关",
+    "type": "socket-mult"
+  },
+  "YQBL01": {
+    "name": "单火线时控开关",
+    "type": "socket-mult"
+  },
+  "YQBL02": {
+    "name": "零火线时控开关",
+    "type": "socket-mult"
+  },
+  "WBJ001": {
+    "name": "AI大模型护眼仪",
+    "type": "unknown"
+  },
+  "XJD001": {
+    "name": "暖宫宝",
+    "type": "unknown"
+  },
+  "FSQW01": {
+    "name": "KEM",
+    "type": "unknown"
+  },
+  "YKFX01": {
+    "name": "甩脂机",
+    "type": "fit"
+  },
+  "YKFX02": {
+    "name": "甩脂机",
+    "type": "fit"
+  },
+  "BDCY04": {
+    "name": "酷比灯",
+    "type": "unknown"
+  },
+  "DGFJ02": {
+    "name": "懒人开关",
+    "type": "unknown"
+  },
+  "ZSJF02": {
+    "name": "盆底养护仪",
+    "type": "unknown"
+  },
+  "IS0268": {
+    "name": "自学习",
+    "type": "self-study"
+  },
+  "IS0273": {
+    "name": "端到端自学习",
+    "type": "self-study"
+  },
+  "SZH001": {
+    "name": "在线修改命令词",
+    "type": "self-study"
+  },
+  "XP0008": {
+    "name": "自学习灯头",
+    "type": "self-study"
+  },
+  "XP0009": {
+    "name": "自学习小夜灯",
+    "type": "self-study"
+  },
+  "XYL001": {
+    "name": "漫香.香薰机",
+    "type": "humidifier"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "EasyCon BLE",
+  "render_readme": true,
+  "file_name": "easycon_ble",
+  "iot_class": "Local Push",
+  "domain": "easycon_ble"
+}
